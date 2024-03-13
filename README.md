@@ -5,10 +5,10 @@ The ETL (Extract, Transform, Load) mini project involves building an ETL pipelin
 ## Repository Setup
 1. **Clone the Repository**: Clone the repository to your computer:
     ```
-    git clone <repository_url>
+    git clone <[repository_url](https://github.com/Weekes-Rod/Crowdfunding_ETL_Project)>
     ```
 2. **Repository Creation**: One member of the group should create a new repository named `Crowdfunding_ETL` for this project. Add your partner as a collaborator. Do not add this project to an existing repository.
-3. **File Setup**: Rename the `ETL_Mini_Project_starter_code.ipynb` file with the first name initial and last name of each member of the group (e.g., `ETL_Mini_Project_NRomanoff_JSmith.ipynb`). Add this Jupyter notebook file and the `Resources` folder containing `crowdfunding.xlsx` and `contacts.xlsx` files to your repository.
+3. **File Setup**: Rename the `ETL_Mini_Project_starter_code.ipynb` file with the first name initial and last name of each member of the group (e.g., `ETL_Mini_Project_FRoefaro_RWeekesd.ipynb`). Add this Jupyter notebook file and the `Resources` folder containing `crowdfunding.xlsx` and `contacts.xlsx` files to your repository.
 4. **GitHub Setup**: Push the changes to GitHub and have your partner pull the changes so both of you have the same notebook available on your computer.
 ## Project Details
 In this one-week project, you'll collaborate with a partner to complete the following tasks:
