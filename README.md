@@ -6,7 +6,7 @@ The ETL (Extract, Transform, Load) mini project involves building an ETL pipelin
 ## Repository Setup
 **Clone the Repository**: Clone the repository to your computer:
     ```
-    git clone <[(https://github.com/Weekes-Rod/Crowdfunding_ETL_Project)]>
+    git clone <[https://github.com/Weekes-Rod/Crowdfunding_ETL_Project]>
     ```
 
 ## Project Details
@@ -31,8 +31,7 @@ The ETL (Extract, Transform, Load) mini project involves building an ETL pipelin
 - crowdfunding.xlsx
 - contact.xlsx
 
-- 
-- 
+  
 ---
 This README provides an overview of the project, setup instructions, and information about the versions of the programs used. Let me know if you need any further adjustments!
 Python documentationPython documentation
